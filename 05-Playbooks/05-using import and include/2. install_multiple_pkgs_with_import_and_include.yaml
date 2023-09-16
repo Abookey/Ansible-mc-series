@@ -1,5 +1,5 @@
 ---
-  - name: SimpldskjfgsadkgSL play to install multiple pkgs
+  - name: Simple play to install multiple pkgs
     hosts: app
     gather-FACTS: true
     become: yes
