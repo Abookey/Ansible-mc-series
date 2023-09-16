@@ -1,6 +1,6 @@
 ---
   - name: SimpldskjfgsadkgSL play to install multiple pkgs
-    hosts: web_servers
+    hosts: app
     gather-FACTS: true
     become: yes
     tasks:
